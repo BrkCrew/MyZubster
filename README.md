@@ -8,7 +8,16 @@ https://www.facebook.com/MyZubster Facebook Pace
 https://github.com/chaica/pymonerowallet
 
 
-Developer APIs
+MONERO Developer APIs
 
 https://github.com/chaica/pymonerowallet
 http://monero.stackexchange.com/questions/385/php-libraries-to-assist-with-monero-integration/386
+
+ZeroNet 
+
+https://github.com/HelloZeroNet/ZeroNet
+
+
+Tor Browser
+
+https://stem.torproject.org/api.html
