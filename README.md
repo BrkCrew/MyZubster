@@ -21,3 +21,10 @@ https://github.com/HelloZeroNet/ZeroNet
 Tor Browser
 
 https://stem.torproject.org/api.html
+
+
+
+
+Exchange and Other
+
+http://docs.bitfinex.com/docs
