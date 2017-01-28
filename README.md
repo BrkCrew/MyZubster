@@ -23,8 +23,6 @@ Tor Browser
 https://stem.torproject.org/api.html
 
 
+LINK and Tutorial -
 
-
-Exchange and Other
-
-http://docs.bitfinex.com/docs
+http://monero.how/
