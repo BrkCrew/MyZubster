@@ -3,3 +3,12 @@ Startup OpenSource with Monero Cryptocurrency , Encryption and Privacy System.
 https://www.facebook.com/groups/1425385067493991/ Facebook Group
 https://www.facebook.com/MyZubster Facebook Pace
 
+
+
+https://github.com/chaica/pymonerowallet
+
+
+Developer APIs
+
+https://github.com/chaica/pymonerowallet
+http://monero.stackexchange.com/questions/385/php-libraries-to-assist-with-monero-integration/386
