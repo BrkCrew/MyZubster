@@ -1,0 +1,3 @@
+Quando importerò monero in myzubster , il mining sarà 
+decentralizzato in più apporterò su WEBAPP la possibilità
+di implemento mining delle CPU del proprio pc
