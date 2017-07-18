@@ -1,5 +1,7 @@
 # MyZubster
-Startup OpenSource with Monero Cryptocurrency , Encryption and Privacy System.
-https://www.facebook.com/groups/1425385067493991/ Facebook Group
-https://www.facebook.com/MyZubster Facebook Pace
+Startup with Privacy System
 
+Questa è una startup ideata per lo scambio di liberi e servizi.
+
+https://twitter.com/DanyBtc1
+https://www.facebook.com/daniel.nonso.9699
